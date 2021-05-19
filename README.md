@@ -3,7 +3,7 @@
 <h3>My Personal accounts:</h3>
 <p align="left">
    <a href="https://discord.com/users/223160697503219712" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/user/dxmod7e684q3naa2tvhvuzf2c" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://discord.gg/ycNUufY" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UCQ-DGkZ1DwfC-rIsWnauiyw/videos" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://discord.gg/ycNUufY" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/AuroraDLL" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -30,7 +30,7 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=false&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auroradll&theme=dark&count_private=true&show_icons=false&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=barbecue&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" 
 />
 </p>
