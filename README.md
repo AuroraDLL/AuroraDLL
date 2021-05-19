@@ -1,5 +1,5 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-   <p align="left">Hi, I’m <a href="https://bbq.codes/">Barbecue!</a>, a young developer from Turkey 🚀</p>
+   <p align="left">Hi, I’m <a href="https://bbq.codes/">Aurora!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
    <a href="https://discord.com/users/298888568279924746" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
