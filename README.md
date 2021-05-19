@@ -34,4 +34,4 @@
    <img src="https://github-readme-stats.vercel.app/api?username=auroradll&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" 
 />
 </p>
- <img style="margin-right: 3px;" src="https://komarev.com/ghpvc/?username=barbecue&style=flat-square"/>
+ <img style="margin-right: 3px;" src="https://komarev.com/ghpvc/?username=auroradll&style=flat-square"/>
